@@ -51,4 +51,4 @@ Setiap jalur bergantian aktif dengan countdown yang tampil pada 7-segment.
 ---
 
 ## 👨‍💻 Author
-hemart-tn
+HemaTN
